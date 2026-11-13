@@ -109,3 +109,7 @@ Windows startup entry remains valid.
   `^`; applications cannot force themselves to stay visible.
 - The first release targets Windows x64 only.
 - Code signing, automatic updates, and an installer are not included yet.
+
+## Project usage
+
+Copyright © 2026 Khaichong Ew. All rights reserved. No commercial-use permission is granted for the original project. Third-party components remain under their respective licenses.
